@@ -1,0 +1,4 @@
+R"(
+Este es un archivo de texto.
+Y este es el texto.
+)"
