@@ -1,4 +1,4 @@
 R"(
 Este es un archivo de texto.
-Y este es el texto.
+Y esto es lo que contiene
 )"
