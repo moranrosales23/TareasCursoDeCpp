@@ -1,4 +1,0 @@
-R"(
-Este es un archivo de texto.
-Y esto es lo que contiene
-)"
